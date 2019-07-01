@@ -1,0 +1,43 @@
+#rw_side_menu #rw_side_menu_container {
+    display: none!important;
+}
+
+div#breadcrumb-section {
+    display: none;
+}
+
+a#content-metadata-page-restrictions {
+    display: none;
+}
+
+.page-metadata ul li {
+    display: none;
+}
+
+
+#rw_wrapper #rw_main #rw_theme_header .rw_header_row {
+    width: 100%;
+    display: none;
+}
+
+.rw_content_section #rw_left_column > *:last-child {
+    display: none;
+}
+.rw_users_space_macro.rw_corners {
+    display: none!important;
+}
+#likes-and-labels-container {
+    display: none;
+}
+
+#rw_footer_wrapper.rw_theme_light {
+    display: none;
+}
+
+#page-metadata-banner ul.banner #system-content-items {
+    display: none;
+}
+
+.rw_space_news.rw_page_left_section {
+    display: none!important;
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VRooms",
+    "description": "The name of the extension."
+  },
+  "appDescription": {
+    "message": "Design in 2D like you always do. VRooms allows you to design for VR without the pain of compiling and running code or VR programs. Use this Chrome Extension to view your Figma designs in VR.",
+    "description": "The description of the extension."
+  },
+  "btnTooltip": {
+    "message": "VRooms",
+    "description": "Tooltip for the button."
+  }
+}
